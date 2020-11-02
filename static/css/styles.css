@@ -1,0 +1,60 @@
+@font-face {
+  font-display: swap;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.navbar {
+  -webkit-box-shadow: 0 8px 6px -6px #999;
+  -moz-box-shadow: 0 8px 6px -6px #999;
+  box-shadow: 0 8px 6px -6px #999;
+  background-color: white !important;
+  font-size: 20pt;
+}
+
+.footer-23technologies {
+  float: right;
+  margin-right: 20px;
+}
+
+.header-23technologies {
+  height: 80px;
+}
+
+.logo-23technologies {
+  width: 1024px;
+  height: auto;
+}
+
+.logo-23technologies-single {
+  width: 50px;
+  height: auto;
+}
+
+.image-404{
+  width: 500px;
+  height: auto;
+}
+
+a:hover {
+  color: rgb(115, 128, 128) !important;
+}
+
+a {
+  color: rgb(0, 0, 0) !important;
+}
+
+p.text-muted {
+  color: rgb(115, 128, 128) !important;
+  font-size: 8pt;
+}
+
+/* https://stackoverflow.com/questions/22196587/how-to-vertically-center-a-container-in-bootstrap */
+.vertical-center {
+  min-height: 100%;
+  min-height: 100vh;
+
+  display: flex;
+  align-items: center;
+}

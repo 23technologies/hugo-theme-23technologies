@@ -1,0 +1,12 @@
+name = "23technologies"
+license = "MIT"
+licenselink = "https://github.com/23technologies/hugo-theme-23technologies/blob/master/LICENSE"
+description = "Hugo theme of 23 Technologies"
+homepage = "https://github.com/23technologies/hugo-theme-23technologies"
+tags = ["minimal", "clean", "simple"]
+features = []
+min_version = "0.77.0"
+
+[author]
+  name = "Christian Berendt"
+  homepage = "https://23technologies.cloud"

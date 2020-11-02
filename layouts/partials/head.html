@@ -1,0 +1,14 @@
+<head>
+  {{ partial "meta.html" . }}
+
+  <meta name="description" content="23 Technologies" />
+
+  <link rel="canonical" href="https://23technologies.cloud">
+
+  <title>{{ upper .Site.Title }} &ndash; {{ upper .Title }}</title>
+
+  {{ partial "stylesheet.html" . }}
+  {{ partial "favicon.html" . }}
+  {{ partial "jsonld.html" . }}
+
+</head>
