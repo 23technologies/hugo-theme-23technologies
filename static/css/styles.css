@@ -37,12 +37,19 @@
   height: auto;
 }
 
-a:hover {
+a {
   color: rgb(115, 128, 128) !important;
+  text-decoration: underline;
 }
 
-a {
-  color: rgb(0, 0, 0) !important;
+a:hover {
+  color: rgb(115, 128, 128) !important;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: rgb(115, 128, 128) !important;
+  text-decoration: underline;
 }
 
 p.text-muted {
