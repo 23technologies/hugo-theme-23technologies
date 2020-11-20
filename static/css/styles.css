@@ -32,6 +32,18 @@
   height: auto;
 }
 
+.logo-cyberforum {
+  width: auto;
+  height: 60px;
+  padding: 10px;
+}
+
+.logo-osb-alliance {
+  width: auto;
+  height: 50px;
+  padding: 10px;
+}
+
 .image-404{
   width: 500px;
   height: auto;
