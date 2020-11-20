@@ -42,7 +42,7 @@
 
 .logo-cyberforum {
   width: auto;
-  height: 60px;
+  height: 50px;
   padding: 10px;
 }
 
@@ -54,8 +54,9 @@
 
 .logo-scs {
   width: auto;
-  height: 50px;
+  height: 55px;
   padding: 10px;
+  margin-bottom: 5px;
 }
 
 .image-404{
