@@ -45,12 +45,14 @@
   width: auto;
   height: 50px;
   padding: 10px;
+  filter: grayscale(100%);
 }
 
 .logo-osb-alliance {
   width: auto;
   height: 50px;
   padding: 10px;
+  filter: grayscale(100%);
 }
 
 .logo-scs {
@@ -58,6 +60,7 @@
   height: 55px;
   padding: 10px;
   margin-bottom: 5px;
+  filter: grayscale(100%);
 }
 
 .image-404{
